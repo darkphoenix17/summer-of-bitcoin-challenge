@@ -5,7 +5,8 @@ This repository contains solution to the [Summer of Bitcoin Challenge](https://s
 ## How to run code
 
 <hr>
-As solution is in C++, it requires [GNU compiler(g++)](https://gcc.gnu.org/)
+
+As solution is in C++, it requires [GNU Compiler](https://gcc.gnu.org/) <br>
 Get to the home directory of the repository
 
 For Linux, run
